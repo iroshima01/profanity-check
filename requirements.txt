@@ -4,7 +4,7 @@ torch==2.5.1
 transformers==4.51.3
 pydub==0.25.1
 moviepy==1.0.3
-scipy==1.13.1
+scipy>=1.10.0,<1.13.0
 numpy==2.0.2
 yt-dlp==2025.6.9
 ffmpeg-python==0.2.0
