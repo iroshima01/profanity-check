@@ -1,3 +1,6 @@
 gfortran
 libgfortran5
 pkg-config
+libopenblas-dev
+liblapack-dev
+libblas-dev
